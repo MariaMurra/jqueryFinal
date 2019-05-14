@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+#accordion{
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
+    margin: auto;
+    width: 420px;
+}
+h3 {
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+    color: dodgerblue;
+    margin: 5px auto;
+    border: 1px solid navy;
+}
+ul{
+    list-style: none;
+    margin: auto;
+    
+}
